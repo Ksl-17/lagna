@@ -1,0 +1,71 @@
+body{
+  background-color: #000000;
+}
+
+h1{
+  text-align: center;
+  color: orange;
+  font-family: cursive;
+}
+h2{
+  color: red;
+  text-align: center;
+}
+h3,h4{
+  color: orange;
+  text-align: center;
+  font-size: 150%;
+}
+
+p{
+  color: white;
+}
+p2{
+  color: black;
+  background-color: white;
+}
+
+.btn {
+  
+  font-size: 200%;
+  font-weight: 600;
+  border-radius: 40px;
+  
+  
+  
+}
+.btn--primary {
+  color: white;
+  background-color: Dodgerblue;
+  border-color: blue;
+}
+.btn--primary:hover {
+  background-color: violet;
+}
+.btn--insta {
+  color: white;
+  background-color: red;
+  border-color: blue;
+}
+.btn--insta:hover {
+  background-color: violet;
+}
+.btn--github {
+  color: white;
+  background-color: violet;
+  border-color: blue;
+}
+.btn--github:hover {
+  background-color: black;
+}
+.btn--location {
+  background-color: red;
+  border-top-color: blue;
+  border-right-color: blue;
+  border-left-color: blue;
+  border-color: blue;
+}
+.btn--block {
+  width: 100%;
+  display: inline-block;
+}
